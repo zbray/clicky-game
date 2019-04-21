@@ -1,5 +1,13 @@
-/* Fix Card Size */
-
-/* Fix Page Width Card Rendering */
+/* Fix Page Width Card Rendering with @media*/
 
 /* Create Hover Effect */
+
+nav {
+  color:white;
+  font-size: 20px;
+}
+
+img {
+  max-width: 300px;
+  max-height: 330px;
+}

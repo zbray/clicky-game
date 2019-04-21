@@ -12,7 +12,7 @@ function JumbotronSW () {
     );
 }
 
-// Clean this up
-// Add Score to Navbar
-
 export default JumbotronSW;
+
+//Maybe add background image here?
+//Either that, background color to card area or both

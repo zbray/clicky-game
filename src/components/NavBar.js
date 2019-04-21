@@ -1,21 +1,26 @@
 import React from "react";
 import Navbar from 'react-bootstrap/Navbar'
+import Col from 'react-bootstrap/Col'
 import "./style.css";
 
 class NavBar extends React.Component{
   render(){
     return (
-      <div>
-      <Navbar bg="dark" variant="dark">
-      <Navbar.Brand href="#home">Navbar</Navbar.Brand>
+      <Navbar sticky="top" bg="dark" variant="dark">
+        <Col>
+          Title
+        </Col>
+        <Col>
+          Click a Droid and Begin!
+        </Col>
+        <Col>
+          Score:  | High Score:
+        </Col>
     </Navbar>
-      </div>
-      
     );
   }
 }
 
-// Clean this up
-// Add Score to Navbar
+// Add Score props to Navbar
 
 export default NavBar;

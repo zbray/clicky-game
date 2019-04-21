@@ -1,6 +1,6 @@
 import React from 'react';
-import Wrapper from "./components/Wrapper.js";
 import NavBar from "./components/NavBar.js";
+import Wrapper from "./components/Wrapper.js";
 
 function App() {
   return (
@@ -11,3 +11,5 @@ function App() {
 };
 
 export default App;
+
+//Consider alternative nesting conventions
