@@ -1,28 +1,27 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import DroidCard from "./components/DroidCard";
+import Wrapper from "./components/Wrapper";
+import droids from "./droids.json"
+import NavBar from "./components/NavBar";
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
-    );
-  }
-}
+function App() {
+  return (
+    <Wrapper>
+      <NavBar />
+      <h1>Droids</h1>
+
+      {droids.map((droid) =>{
+          return <DroidCard
+          key={droid.id}
+          name={droid.name}
+          image={droid.image}
+          class={droid.class}
+          origin={droid.origin}
+          />
+        })}
+    </Wrapper>
+
+  )
+};
 
 export default App;
