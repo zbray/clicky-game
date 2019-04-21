@@ -15,7 +15,7 @@ When the player clicks on an image they have not previously clicked on, their sc
 HTML, CSS, [React](https://reactjs.org/), ES6, [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap), Visual Studio Code, Terminal, Mac OS
 
 ### Deployment
-Deployed on GitHub Pages [here].
+Deployed on GitHub Pages [here](https://zzzbray.github.io/clicky-game/).
 
 ### Built By
 
