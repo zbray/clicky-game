@@ -7,56 +7,56 @@
   {
     "id": 2,
     "name": "BB8",
-    "image": ""
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/6/68/BB8-Fathead.png/revision/latest?cb=20161108050455"
   },
   {
     "id": 3,
     "name": "C3P0",
-    "image": ""
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/3/3f/C-3PO_TLJ_Card_Trader_Award_Card.png/revision/latest?cb=20180121052644"
   },
   {
     "id": 4,
     "name": "R5-D4",
-    "image": ""
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/c/cb/R5-D4_Sideshow.png/revision/latest?cb=20160809033145"
   },
   {
     "id": 5,
     "name": "MSE-6",
-    "image": ""
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/b/bb/MouseDroid-ROStickerBook.png/revision/latest?cb=20170918180553"
   },
   {
     "id": 6,
     "name": "HK-47",
-    "image": ""
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/3/37/HK-47.png/revision/latest?cb=20130204122718"
   },
   {
     "id": 7,
     "name": "IG-88",
-    "image": ""
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/f/f2/IG-88.png/revision/latest?cb=20160911044452"
   },
   {
     "id": 8,
     "name": "K-2SO",
-    "image": ""
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/f/fd/K-2SO_Sideshow.png/revision/latest?cb=20170302003128"
   },
   {
     "id": 9,
     "name": "L3-37",
-    "image": ""
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/2/29/L3-37_SWI184.png/revision/latest?cb=20181006045743"
   },
   {
     "id": 10,
     "name": "R4-P17",
-    "image": ""
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/5/53/R4-P17_Buzz_Droids.png/revision/latest?cb=20130117050252"
   },
   {
     "id": 11,
     "name": "D-0",
-    "image": ""
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/e/e4/D-Otrailer.png/revision/latest?cb=20190413055856"
   },
   {
     "id": 12,
-    "name": "0-0-0",
-    "image": ""
+    "name": "B1 battle droid",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/c/cd/Battle_Droid.png/revision/latest?cb=20160910192832"
   }
 ]
