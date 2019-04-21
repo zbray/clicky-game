@@ -2,85 +2,61 @@
   {
     "id": 1,
     "name": "R2D2",
-    "image": "",
-    "class": "",
-    "origin": ""
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/e/eb/ArtooTFA2-Fathead.png/revision/latest?cb=20161108040914"
   },
   {
     "id": 2,
     "name": "BB8",
-    "image": "",
-    "class": "",
-    "origin": ""
+    "image": ""
   },
   {
     "id": 3,
     "name": "C3P0",
-    "image": "",
-    "class": "",
-    "origin": ""
+    "image": ""
   },
   {
     "id": 4,
     "name": "R5-D4",
-    "image": "",
-    "class": "",
-    "origin": ""
+    "image": ""
   },
   {
     "id": 5,
     "name": "MSE-6",
-    "image": "",
-    "class": "",
-    "origin": ""
+    "image": ""
   },
   {
     "id": 6,
     "name": "HK-47",
-    "image": "",
-    "class": "",
-    "origin": ""
+    "image": ""
   },
   {
     "id": 7,
     "name": "IG-88",
-    "image": "",
-    "class": "",
-    "origin": ""
+    "image": ""
   },
   {
     "id": 8,
     "name": "K-2SO",
-    "image": "",
-    "class": "",
-    "origin": ""
+    "image": ""
   },
   {
     "id": 9,
     "name": "L3-37",
-    "image": "",
-    "class": "",
-    "origin": ""
+    "image": ""
   },
   {
     "id": 10,
     "name": "R4-P17",
-    "image": "",
-    "class": "",
-    "origin": ""
+    "image": ""
   },
   {
     "id": 11,
     "name": "D-0",
-    "image": "",
-    "class": "",
-    "origin": ""
+    "image": ""
   },
   {
     "id": 12,
     "name": "0-0-0",
-    "image": "",
-    "class": "",
-    "origin": ""
+    "image": ""
   }
 ]

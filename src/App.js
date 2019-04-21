@@ -1,8 +1,8 @@
 import React from 'react';
-import DroidCard from "./components/DroidCard";
-import Wrapper from "./components/Wrapper";
+import DroidCard from "./components/DroidCard.js";
+import Wrapper from "./components/Wrapper.js";
 import droids from "./droids.json"
-import NavBar from "./components/NavBar";
+import NavBar from "./components/NavBar.js";
 
 function App() {
   return (
